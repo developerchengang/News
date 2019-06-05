@@ -1,4 +1,4 @@
-package com.doumiao.news
+package com.doumiao.presentation
 
 import org.junit.Test
 
